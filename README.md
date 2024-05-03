@@ -6,4 +6,4 @@ In this repository I plan to commit all solutions to the Programming Projects se
 
 Please note that these may not be the best solutions to the given problems, i do not claim they are. 
 
-This shall be looked as more of an exercise than anything, as I will be solving the problems as I am going through the book and getting myself familiar with the C programming language.
+This shall be looked as more of an exercise than anything, as I will be solving the problems as I am go through the book and familiarise myself with the C programming language.
